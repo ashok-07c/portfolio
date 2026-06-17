@@ -2,7 +2,7 @@ const projects = [
     {
         id: 1,
         title: "LogiLink",
-        banner: "./../src/images/projects/Logilink.png",
+        banner: "/projects/Logilink.png",
         description:
             "A logistics platform connecting MSMEs with transport providers for efficient shipment tracking and management.",
         techStack: [
@@ -28,7 +28,7 @@ const projects = [
     {
         id: 2,
         title: "Local Issue Reporting System",
-        banner: "./../src/images/projects/Local.png",
+        banner: "/projects/Local.png",
         description:
             "A civic engagement platform where citizens can report local issues and track complaint status.",
         techStack: [
@@ -50,7 +50,7 @@ const projects = [
     {
         id: 3,
         title: "Hotel Reservation System",
-        banner: "./../src/images/projects/Hotel Reservation.png",
+        banner: "/projects/Hotel Reservation.png",
         description:
             "A hotel booking platform allowing users to search rooms, make reservations, and manage bookings.",
         techStack: [
@@ -72,7 +72,7 @@ const projects = [
     {
         id: 4,
         title: "Assembly Endgame",
-        banner: "./../src/images/projects/Assembly Endgame.png",
+        banner: "/projects/Assembly Endgame.png",
         description:
             "A React-based word guessing game inspired by Hangman with engaging UI and game logic.",
         techStack: [
@@ -94,7 +94,7 @@ const projects = [
     {
         id: 5,
         title: "Tenzies Game",
-        banner: "./../src/images/projects/Tenzies.png",
+        banner: "/projects/Tenzies.png",
         description:
             "A fun React dice game where players roll until all dice match using state management and hooks.",
         techStack: [
