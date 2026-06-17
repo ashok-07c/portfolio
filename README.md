@@ -7,7 +7,7 @@ A modern and responsive personal portfolio website built using React.js to showc
 Add your deployed portfolio link here:
 
 ```text
-https://your-portfolio-link.com
+https://portfolio-omega-black-81.vercel.app/
 ```
 
 ---
